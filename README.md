@@ -1,6 +1,43 @@
 # Qorabayir.
 # Xurmatillo.
 # Aliens.
+
+Dear Github community,
+
+I am Xurmatillo and I am excited to share with you my project called "Qorabayr", which aims to create a hydrogen car using a solar cell, peltier cell, extracting water from the air, and extracting hydrogen from water.
+
+The purpose of this project is to create a sustainable and environmentally friendly car that can be powered by clean energy sources.
+
+To implement this project, we have followed the following steps:
+
+Research and gather materials: We conducted thorough research on the materials needed for this project. We have gathered solar cells, peltier cells, a hydrogen generator, a water pump, water tanks, a fuel cell, and other basic tools.
+
+Design the car: We designed a car that can accommodate all the necessary components. This includes a chassis, wheels, and a body.
+
+Install solar cells: We installed solar cells on the roof of the car. These cells will convert sunlight into electricity, which will be used to power the hydrogen generator.
+
+Install peltier cells: We installed peltier cells on the underside of the car. These cells will generate electricity by utilizing the temperature difference between the hot asphalt and the cooler air above it.
+
+Extract water from the air: We installed a water pump and water tanks. This allowed us to extract water from the air, which will then be used to generate hydrogen.
+
+Extract hydrogen from water: We used the extracted water to generate hydrogen using an electrolysis process. This involves passing an electric current through the water, which will break it down into hydrogen and oxygen.
+
+Store hydrogen: We stored the generated hydrogen in a fuel cell. This allowed us to convert the hydrogen back into electricity when needed.
+
+Assemble the car: We assembled the car by attaching the wheels, connecting the various components, and installing the body.
+
+Test and refine: We tested the car and made any necessary refinements. This included adjusting the position of the solar cells or peltier cells, tweaking the water extraction process, or making changes to the fuel cell.
+
+Overall, the Qorabayr project was successful in creating a hydrogen car using a solar cell, peltier cell, extracting water from the air, and extracting hydrogen from water. Our aim is to inspire others to pursue sustainable and environmentally friendly solutions.
+
+Thank you for taking the time to read about our project.
+
+Best regards,
+
+Xurmatillo
+
+
+
 Suv yordamida harakatlanuvchi avtomobil.
 Logo link: https://www.figma.com/file/kgwFNIity27FLxprGhEvLf/Untitled?type=design&node-id=0%3A1&t=P8fqTJleehCwdGDG-1
 Loyiha tavsifi: Quyosh energiyasi yordamida ekologik ishlab, peltiye yordamida havodan olingan suvni to'plab, bu suvni elektroliz qilib vodorodga aylantirib, vodorodni yoqish orqali harakatlanadigan avtomobil.
